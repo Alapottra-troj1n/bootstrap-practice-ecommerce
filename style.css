@@ -1,0 +1,59 @@
+.category_wrapper{
+    height: 200px !important ;
+    
+}
+.category_wrapper div{
+    height: 100% !important;
+}
+.input_section > div{
+    height: 300px;
+}
+
+.__bg_primary{
+    background-color: #dfe7fd;
+}
+
+.__bg_pink{
+    background-color: #ef476f;
+}
+
+.__bg_green{
+    background-color: #06d6a0;
+}
+
+.__bg_yellow{
+    background-color: #ffd166;
+}
+
+.__btn_primary{
+    border: 2px solid #ef476f ;
+    padding: 10px 30px;
+    background-color: #ef476f;
+    color: white;
+    font-weight: 500;
+    border-radius: 7px;
+}
+.__btn_primary:hover{
+
+    background-color: #ef476e00;
+    color: rgb(54, 54, 54);
+    transition: all 200ms ease-in-out;
+}
+
+.__heading_text{
+    font-size: 45px;
+    color: #ef476f;
+
+}
+
+.price{
+    font-size: 35px;
+    font-weight: 500;
+    color: #ef476f
+
+}
+
+input{
+    width: 400px;
+    height: 40px;
+}

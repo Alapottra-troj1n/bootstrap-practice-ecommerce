@@ -57,3 +57,10 @@ input{
     width: 400px;
     height: 40px;
 }
+
+.__search{
+    position: absolute;
+    top: 16px;
+    right:10px;
+    cursor: pointer;
+}
